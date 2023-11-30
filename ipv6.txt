@@ -191,6 +191,7 @@ BesTV-10,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index
 BesTV-11,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
 香港频道,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 ViuTV,https://epg.pw/stream/8364f173f45162eb4dda2149f59a9e84544fe18360b5f998512210bfca8211a4.ctv
