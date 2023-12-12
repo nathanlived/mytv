@@ -146,6 +146,7 @@ NewTV频道,#genre#
 咪咕直播-53,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播-1-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
+爱奇艺直播(临时),https://qncdnct.inter.71edge.com/tslive/l1/c61_ssports_20231207_gk14bnw2_hevc_high_chst1_t4/_Q5viDRQ_0G9uDBLs1Vk4gwY30X-al-lAOMaHuYcMJPBYhivK-VX_XIWfN4XsqzzW3GUtGwPU06clA-fhMz00PwbopcYJQ6jieG3ldQCu6l-93agepWagbFeZ_Nub7h0-UIn97wQkjXbzUhQw01xFhtPVcteqOhq3KIVKrGhsXoUmwhiQ54jfaXcMl2Kgk4eETkz3Ul7hy1HeI3IwSyfrUSAvGh3boJ_sT1h49GKzeSrqwBs80Hjt4iM-cbseqtpWu8jnXMhRr9FQ1hdKiko-w/1d64a874745fa8c7976bd652ee9555a56/c61_ssports_20231207_gk14bnw2_hevc_high_chst1_t4.m3u8?key=04bb9bccdd2961230ce35e8a6564b8167&dis_t=1702393816&qdpv=3&qd_bid=2&qd_sft=0&mss=1&ssl=1&pv=0.1&uid=2511335884&random=1702393949
 iHOT频道,#genre#
 爱悬疑,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 爱电竞,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
