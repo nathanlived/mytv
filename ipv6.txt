@@ -188,8 +188,9 @@ BesTV-8,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001359/index.
 BesTV-9,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001378/index.m3u8?love=freedom
 BesTV-10,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001388/index.m3u8?love=freedom
 BesTV-11,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001398/index.m3u8?love=freedom
-香港频道,#genre#
-
+港澳台频道,#genre#
+鳳凰中文,https://fake-stream.livednow.com/stream-link/h19?token=18737cdb1e9034699133e165150b2307&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+鳳凰資訊,https://fake-stream.livednow.com/stream-link/h18?token=046c17d8dd1c60906db6e22068a53315&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 TVB 翡翠台,https://fake-stream.livednow.com/stream-link/h00?token=115bf06b8f9c430fb416703c2c8b489b&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 TVB 翡翠台,https://fake-stream.livednow.com/stream-link/h01?token=4d7cf12f3e6fe7c02a2ee5cac09e5383&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 TVB 明珠台,https://fake-stream.livednow.com/hkdvb/84?token=761bbc9932c7391e82ea144d899826b1&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
@@ -205,6 +206,18 @@ TVB 娛樂新聞台,https://fake-stream.livednow.com/stream-link/h10?token=b7cf0
 Viu,https://fake-stream.livednow.com/hkdvb/102?token=8c0ec4331d8adf2250a30a4ca5f6717b&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 ViuTV,https://fake-stream.livednow.com/stream-link/h10?token=b7cf0b4b68ea0622348bf38f2fe888c3&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 ViuTV Six,https://fake-stream.livednow.com/hkdvb/96?token=c2ef93f8cedc0e38fe4de109850e3e6f&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+港台電視 31,https://fake-stream.livednow.com/hkdvb/31?token=2cdfa52b7b285b4e6356b16c6186bc70&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+港台電視 32,https://fake-stream.livednow.com/hkdvb/32?token=47c867d5a38df782e29884ff0b9119a4&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+HOY TV,https://fake-stream.livednow.com/hkdvb/77?token=87b9ff6603434073752179c5e6d53c48&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+HOY TV 資訊台,https://fake-stream.livednow.com/hkdvb/78?token=fa5f45d1253d0251b2cae4018f9cfef2&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+HOY 國際財經台,https://fake-stream.livednow.com/hkdvb/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+鏡電視新聞台,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+寰宇新聞台,https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+寰宇新聞台灣台,https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+寰宇財經台,https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+三立新聞,https://fake-stream.livednow.com/youtube/FoBfXvlOR6I?token=b82d4a76e2534670cc55b0aa6cb084f9&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+三立新聞+,https://fake-stream.livednow.com/youtube/oZdzzvxTfUY?token=082709965a655050f0f1d4a1c89f94e2&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
+三立財經新聞,https://fake-stream.livednow.com/stream-link/t10?token=cea1424f40137bfe27554faf14d96a9c&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 民視,https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 民視第一台,https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 民視新聞台,https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
@@ -224,26 +237,12 @@ ViuTV Six,https://fake-stream.livednow.com/hkdvb/96?token=c2ef93f8cedc0e38fe4de1
 中視新聞台,https://fake-stream.livednow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 中視經典台,https://fake-stream.livednow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 中視菁采台,https://fake-stream.livednow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-鳳凰中文,https://fake-stream.livednow.com/stream-link/h19?token=18737cdb1e9034699133e165150b2307&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-鳳凰資訊,https://fake-stream.livednow.com/stream-link/h18?token=046c17d8dd1c60906db6e22068a53315&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 Astro AEC,https://fake-stream.livednow.com/stream-link/h26?token=3a946f15e42193fc38641222515a452e&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 Astro QJ,https://fake-stream.livednow.com/stream-link/h27?token=5c244ece72b6ea27cda9bfa8d2cd6b52&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 華視,https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 華視新聞,https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 公視新聞,https://fake-stream.livednow.com/youtube/quwqlazU-c8?token=cbe10d91cfe03e7edf9cb8cb3247ec8a&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 公視戲劇,https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-港台電視 31,https://fake-stream.livednow.com/hkdvb/31?token=2cdfa52b7b285b4e6356b16c6186bc70&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-港台電視 32,https://fake-stream.livednow.com/hkdvb/32?token=47c867d5a38df782e29884ff0b9119a4&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-HOY TV,https://fake-stream.livednow.com/hkdvb/77?token=87b9ff6603434073752179c5e6d53c48&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-HOY TV 資訊台,https://fake-stream.livednow.com/hkdvb/78?token=fa5f45d1253d0251b2cae4018f9cfef2&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-HOY 國際財經台,https://fake-stream.livednow.com/hkdvb/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-鏡電視新聞台,https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-寰宇新聞台,https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-寰宇新聞台灣台,https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-寰宇財經台,https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-三立新聞,https://fake-stream.livednow.com/youtube/FoBfXvlOR6I?token=b82d4a76e2534670cc55b0aa6cb084f9&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-三立新聞+,https://fake-stream.livednow.com/youtube/oZdzzvxTfUY?token=082709965a655050f0f1d4a1c89f94e2&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
-三立財經新聞,https://fake-stream.livednow.com/stream-link/t10?token=cea1424f40137bfe27554faf14d96a9c&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 Taiwan Plus,https://fake-stream.livednow.com/youtube/dZp87qnWelE?token=3fe805365e491d59c7d3fdde569522cb&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 半島國際新聞台,https://fake-stream.livednow.com/4gtv/litv-ftv10?token=f741fe4e707fcb88fedb830089c3b4a0&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
 VOA 美國之音,https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525&user_id=6923499805&user_token=415a4e1baca7e986d4ed9258ffab4fc1
