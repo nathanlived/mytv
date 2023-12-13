@@ -146,8 +146,6 @@ NewTV频道,#genre#
 咪咕直播-53,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000032106&livemode=1&stbId=3
 咪咕直播-1-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 咪咕直播-2-4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-爱奇艺直播(临时),https://livednow.com/iqiyi/live/1096259901955023?id=cc9a1ccd5a994e1c8401cdec2f82dd20&token=68U6egysi4Gtm11m27m2UAhdH6dqyyfb9Gm1Fp3m3S506v2YadNglm37GVm3z0FH2YBaFvqwz7b
-iHOT频道,#genre#
 爱悬疑,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000050630&livemode=1&stbId=3
 爱电竞,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3
 爱谍战,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000070630&livemode=1&stbId=3
